@@ -1,0 +1,171 @@
+= Investment Policy Statement for the Kautz-Uible Cryptocurrency Fund 
+
+Version: January 30, 2023
+	
+== 1.	Overview
+
+The Kautz-Uible Cryptocurrency Fund (hereafter referred to as “the Fund”) was made possible by a gift from Dan Kautz and Woody Uible.   
+
+The purpose of this Investment Policy Statement is to identify the following aspects of the Fund’s investment program:
+
+* Objectives and constraints, 
+* Organizational structure, 
+* Roles and responsibilities of students, the Investment Committee, and the Cryptoeconomics Lab Director, 
+* Investment philosophy/strategy.   
+
+== 2.	Objectives and Constraints 
+
+The Fund shall be managed with the following objectives, listed in order of priority: 
+
+1. Provide an educational opportunity for students through hands-on experiences of cryptocurrency analysis and selection, and participation in various roles in an investment program;
+2. Provide an ongoing source of funding for the Kautz-Uible Economics Institute; and
+3. Reduce investment risk as appropriate given the above objectives.
+
+These three objectives may conflict with each other from time to time.  For example, a useful educational opportunity for students may, in some circumstances, lead to inferior performance for the Fund. It is incumbent upon the Cryptoeconomics Lab Director and the Investment Committee to review and make appropriate tradeoffs between the objectives of the Fund.
+ 
+=== Educational Opportunities
+
+The Fund should serve as a vehicle by which the following educational experiences are available:
+
+1.	Provide students with the opportunity to evaluate the relative attractiveness of different cryptocurrencies. The goal of the investment program is to have students take ownership of their learning to obtain and retain a much deeper understanding of the principles of cryptoeconomics  in general and cryptocurrency assets in particular. Students should be given the opportunity to continually define, evaluate, and revise both (i) analysis on specific issues and (ii) the Fund’s processes and general approach to making investment decisions.  This continual define/evaluate/revise process allows members to learn how to seek and take feedback on their work and learn from reflection on past performance.  This process also forces students to ultimately be more precise in their thinking about how to create value and to develop methods for measuring the effectiveness of their processes.  Such opportunities cannot effectively be provided in traditional semester-long lecture-based courses.
+2.	Provide students the experience of working with an external governance structure. External mentoring via the Investment Committee imposes discipline on the activities of the Fund that make the task of cryptocurrency portfolio management more realistic and more educational. 
+3.	Provide students with the opportunity to lead a team and/or play a pre-specified subordinate role within a team to learn how to effectively contribute to organizational success in different positions.
+4.	Provide students with the opportunity to critically evaluate the efficacy of different cryptocurrency philosophies and investment approaches after gaining exposed to a variety of approaches and investment philosophies, via periodic meetings with both academic and industry practitioners. Through such interactions, students will be exposed to alternative approaches and beliefs about cryptocurrencies and blockchain technologies in general.
+
+=== Investment Return, Spending, and Costs
+
+The return objective for the Fund is to increase (or at least preserve) the value of its portfolio after making disbursements as described below and given the educational objective above.
+
+=== Kautz-Uible Economics Institute
+
+The spendable disbursement of all University and Foundation endowments is set by the Foundation’s Board of Trustees (currently 4.2%). 
+
+===	Freeze Period
+
+The Fund will have a three-year period, starting at the date of initial investment, where no disbursements are made (“Freeze Period”). After the freeze period, the authority for scholarship distributions shall be with the Director of the Kautz-Uible Economics Institute through the dean of college. 
+
+=== Custodial and Transactions Costs 
+
+The Fund must also cover out of the principal value of the portfolio (i) all custodial costs and (ii) any transactions costs associated with trading. In seeking to achieve its objective of long-run growth to the value of its portfolio, the Fund must consider the transactions costs associated with any of its investment strategies and/or policies.    
+
+=== Risk
+
+The portfolio will be concentrated in a single highly volatile investment category: cryptocurrencies. As such, it is acknowledged that normal risk management, including for example diversification, cannot apply. And it is acknowledged that substantial losses would occur. Nevertheless, opportunities for reducing risk in a cryptocurrency-only portfolio include:
+
+a.	Holding cash balances;
+b.	Focusing on the most-liquid cryptocurrencies;
+c.	Avoiding leverage;
+d.	Avoiding blockchain-based derivatives.
+
+== 3. Organizational Structures and Responsibilities 
+
+=== Organizational Philosophy
+
+The management team for the Fund will have a defined organizational structure with a set of roles, each with a set of activities, responsibilities, and, when appropriate, oversight.  With such a structure, students assigned to each specific role can have ownership of that role and ensure that the analyses, tasks, and decisions required in that role contribute to the investment process.  The organizational structure for the management of the Fund will be designed such that new members are mentored, directed, and overseen by senior members of the group.  As they gain experience, they may then have the opportunity to mentor, direct, and oversee newer members.
+
+Effective management of the Fund requires staggered turnover in leadership roles, with new leaders having first-hand knowledge of and experience with the activities of the Fund.  This provides the opportunity for students to learn the material at a deep enough level that they can pass it on to others.
+
+The following describes the rules regarding membership turnover in the Fund: 
+
+1.	Recruitment will be conducted on an ongoing basis, by the Cryptoeconomics Lab Director, so that there is a steady injection of new talent into the lower levels of the team.  A new potential recruit with especially valuable experience can be installed onto the PMC by a vote of the PMC.  It is expected, however, that most new members will begin as an analyst.
+2.	By a vote of the PMC, the organizational structure can be altered to appropriately respond to changing market conditions and/or membership limitations/opportunities.
+
+== 4. Roles and Responsibilities
+
+=== The Portfolio Management Committee
+
+The Portfolio Management Committee (PMC) will have at least two student co-chairs who are responsible for leading the committee and organizing the general activities of the Fund. The responsibility of the PMC will be to monitor the performance of the entire portfolio against the goals set forth in this investment policy statement. The PMC will also determine the number of analysts required to support the strategic needs of the overall portfolio. The PMC has the following responsibilities:
+
+1.	Schedule and lead meetings of the PMC. 
+2.	Summarize total fund performance relative to benchmarks.
+3.	Seek to create a consensus on Fund strategy and tactics; resolve any disputes. 
+4.	Schedule and organize meetings of complete Fund membership when appropriate (e.g., for an invited speaker or to discuss governance issues that require input).
+5.	Determine the analysis required for the Fund to satisfy its objective and directing specific analysts to collect such information and/or conduct such analysis. 
+6.	Providing feedback to the Cryptoeconomics Lab Director concerning the effectiveness of other PMC members and analysts.  
+7.	Communicate all trades to the Cryptoeconomics Lab Director for approval and execution.
+8.	By a vote of the PMC, the organizational structure can be altered to appropriately respond to changing market conditions and/or membership limitations/opportunities.
+
+Analysts: The Analysts are students responsible for responding to the needs of the PMC.  This might entail collecting data from third-party sources, conducting an analysis of the ex-post effectiveness of a proposed strategy, conducting an industry analysis to identify undervalued cryptocurrencies, or value individual cryptocurrency. 
+
+It is also the responsibility of Analysts to provide feedback to the Cryptoeconomics Lab Director concerning the leadership effectiveness of the PMC.
+
+=== Cryptoeconomics Lab Director
+
+The Cryptoeconomics Lab Director (i) represents Kautz-Uible Economics Institute’s interests, (ii) serves as an advisor and instructor to the Fund, providing content and direction to the Fund on an on-going basis, and (iii) serves as the liaison between the Investment Committee and UC’s Investment Office. All trades must either be approved or executed by both the CE Lab Director and UC’s Investment Office. The Cryptoeconomics Lab Director has the following responsibilities: 
+
+1.	Provide educational information and support (while this will often entail the CE Lab Director providing lectures on approaches, techniques, and methods, it should also entail the CE Lab Director gently providing guidance and perspective, much as would be done in a course),
+2.	Act as liaison between the various constituents that support or monitor the Fund, including the Investment Committee, the Kautz-Uible Economics Institute, the University Investment Office, the University Treasurer’s Office, and any other external organizations or entities that conduct business with the Fund.
+3.	Approve and execute trades,
+4.	Form and maintain the Investment Committee,
+5.	Facilitate and participate in the recruitment of new members,
+6.	Manage any managerial/organizational conflicts that arise.     
+
+In situations in which the main objectives of the Fund conflict with each other, it is the responsibility of the CE Lab Director to review such policies and suggest appropriate solutions that trade-off the benefits and costs. Since the goal is to have the students learn by doing, the CE Lab Director will suggest resolutions to such conflicts.  If such conflicts cannot be resolved by the members in leadership roles in the Fund, the CE Lab Director may intervene.
+
+===	The Investment Committee
+
+The Fund seeks guidance and input from individuals external to the university, referred to as the Investment Committee, consisting of at least three independent industry professionals.  The Investment Committee has the responsibility to provide feedback to the Fund and to the CE Lab Director. The Investment Committee (IC) will provide advice and external monitoring of the Fund to ensure that the Fund is managed in a manner consistent with the objectives defined by this Investment Policy Statement.  The PMC will report to the Investment Committee at appropriate times based on the University calendar. At appropriate times, the Fund must report to the Investment Committee on the following issues: 
+
+1.	Performance
+2.	Benchmarks
+3.	Performance Attribution
+4.	Changes in Investment Strategies
+5.	Ongoing Projects
+
+It will be the responsibility of the CE Lab Director to form and maintain the membership of the Investment Committee. 
+
+=== University of Cincinnati Administration & Finance
+
+UCA&F will segregate duties to initiate movements of cash into and out of accounts (please see bullets below); UC Treasury Investment Operations, Reporting, and Compliance (IORC) will initiate movements of cash and designated UC Investment Office or UC Office of Community Development personnel will confirm such cash movements.
+
+a.	From the Fund to the Kautz-Uible Economics Institute, custodian(s), or other services providers
+b.	From the cold storage account to the trading account and vice versa 
+
+== 5.	Portfolio Investment Policies
+
+As per the Gift Agreement, “The Fund shall be administered by the University so as to provide an opportunity for students in the Carl H. Lindner College of Business to actively work with digital currencies. In coordination with the University’s Investment Office, the Director of the Cryptoeconomics Lab will authorize all investments.….”
+In addition, the Fund shall abide by the following guidelines -  
+
+=== Benchmark and Risk
+
+The Fund shall seek to exceed the return on the benchmark portfolio of the Bloomberg Galaxy Crypto Index (BGCI) - launched in May 2018. The BGCI is designed to measure the performance of the largest cryptocurrencies traded in USD. As of April 2022, “cryptocurrency weightings are based on market capitalization (calculated as product of circulating supply and price), subject to weighting restrictions applied monthly such that no cryptocurrency constitutes more than 35% of the Index or constitutes less than 1%.”
+
+===	Asset Allocation
+
+At least 75% of the portfolio will consist of the cryptocurrencies that make up the BGCI. Individual position weights for this portion of the portfolio may not deviate from the benchmark weight by more than 15 percentage points.  E.g.  If Bitcoin represents 35% of BGCI’s fund, then Bitcoin may not represent less than 20% or more than 50% of the Kautz-Uible Cryptocurrency Fund.  
+Up to 25% of the portfolio may include cryptocurrencies that are not in the benchmark portfolio.
+
+Schedule A describes the target allocation for the portion of the Fund that consists of benchmark cryptocurrencies.
+
+=== Rebalancing 
+
+The Fund’s portfolio weights will be reviewed at least every three months and rebalanced to be consistent with the objectives of the Fund.  
+
+=== Diversification
+
+The Fund will invest in no fewer than five cryptocurrencies. 
+
+=== Permitted Cryptocurrencies
+
+Cryptocurrencies that have traded for at least three months on a reputable exchange (centralized or decentralized).
+Cryptocurrencies must have a published white paper. 
+Cryptocurrencies must have a three-month median daily value traded (MDVT) of at least US $1,000,000. 
+Fiat-backed stablecoins  may be included in the Fund’s portfolio.
+Cash may be held for operational reasons.
+These eligibility requirements may be modified for hardforked  assets of current constituents.
+
+=== Prohibited  Digital Assets
+
+Nonfungible tokens (NFTs) and algorithmic stablecoins  are prohibited and may not be held in the Fund’s investment portfolio.
+
+=== Reinvestment
+
+Any cryptocurrencies generated from the Fund through staking, inflation, or other rewards programs  will be reinvested into the Fund’s investment portfolio or used to meet the payout policy.
+
+== 6. Investment Philosophy / Strategy
+
+The investment program will invest the majority of its assets in a roughly capitalization-weighted index-like portfolio of cryptocurrencies (75% of the Fund’s investment portfolio) and augment it with a selective holding of out-of-benchmark cryptocurrencies. 
+
+== Schedule A
+
+The Fund’s initial asset allocation will be based on the Bloomberg Galaxy Crypto Index Constituent Weights as of August 2022.
